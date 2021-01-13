@@ -40,19 +40,8 @@ function reverseNestedObject(input){
   return returnObject
 }
 
-// Input:
-// let inputValue = {
-//   hired: {
-//     be: {
-//       to: {
-//         deserve: 'I'
-//       }
-//     }
-//   }
-// };
-
-// reverseNestedObject(inputValue)
 
 module.exports = {
-  reverseNestedObject
+  reverseNestedObject,
+  objectFirstKey,objectFirstValue
 }
