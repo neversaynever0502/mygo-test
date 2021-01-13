@@ -15,4 +15,4 @@ npm i -g mocha
 mocha
 
 -------------------------------
-![image]('https://github.com/neversaynever0502/mygo-test/blob/master/finish-img.png')
+![image](https://github.com/neversaynever0502/mygo-test/blob/master/finish-img.png)
