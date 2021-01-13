@@ -1,6 +1,5 @@
 ## MyGo Test
 
-------------------------------
 
 ### description:
 
@@ -8,7 +7,6 @@ The main function is on run.js.
 
 The function name is reverseNestedObject.
 
-------------------------------
 
 ### run unit-test:
 
